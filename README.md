@@ -4,7 +4,7 @@ QQ交流群:561848356<br>
 <a>若主题目录名为typecho-bearcool-master，则需改为bearcool，否则部分功能无法显示。</a><br>
 <a>特别声明:本主题仅适用于单纯的摄影类博客日志，请勿用于违法站点，在遵守国家法律法规的前提下合理使用，谢谢~</a><br>
 <a href="https://www.coder-bear.com/Typecho/bearcool.html">使用说明</a>
-<a href="https://github.com/whitebearcode/typecho-bearcool/releases/download/v1.0.0/Bearcool_v1.0.0.zip">最新版本[v1.6.2]下载</a>
+<a href="https://github.com/whitebearcode/typecho-bearcool/releases/download/v1.0.0/Bearcool_v1.0.0.zip">最新版本[v1.0.0]下载</a>
 <a href = "https://support.qq.com/products/314782">问题反馈</a>
 <a href = "http://bearcool.typecho.bearlab.in">演示站</a>
 <a href = "https://www.coder-bear.com/">我的博客</a><br>
